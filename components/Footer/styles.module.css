@@ -1,0 +1,8 @@
+.layout{
+    text-align:'center';
+    align-self: center;
+    justify-content: center;
+    justify-items: center;
+    display: flex;
+    flex-direction: column;
+}
